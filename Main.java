@@ -4,5 +4,6 @@ public class Main {
         String name = "Nani";
         System.out.println("Hello, " + name);
         System.out.println("I am learning Git!");
+        System.out.println("I am learning Java development!");
     }
 }
